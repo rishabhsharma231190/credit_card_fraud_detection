@@ -151,11 +151,14 @@ activemq-data/
 .env
 .envrc
 .venv
+.mlops1
 env/
 venv/
 ENV/
+mlops1/
 env.bak/
 venv.bak/
+mlops.bak/
 
 # Spyder project settings
 .spyderproject
